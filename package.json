@@ -32,6 +32,6 @@
         "fis3-postprocessor-autoprefixer": "^1.0.1",
         "less": "1.7.5",
         "liftoff": "2.5.0",
-        "minimist": "1.2.0"
+        "minimist": "1.2.6"
     }
 }

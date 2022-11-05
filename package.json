@@ -26,7 +26,7 @@
         "dirve-command-init": "^1.0.0",
         "dirve-command-server": "1.0.0",
         "fis-parser-less-2.x": "^0.1.4",
-        "fis3": "3.4.39",
+        "fis3": "3.4.46",
         "fis3-hook-commonjs": "0.1.26",
         "fis3-lint-eslint-noisy": "^4.0.9",
         "fis3-postprocessor-autoprefixer": "^1.0.1",
